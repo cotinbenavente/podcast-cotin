@@ -9,6 +9,15 @@
     <itunes:category text="Education" />
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>Las metodologías que mueven a las organizaciones: de PDCA a los OKR</title>
+      <description>Un recorrido por las seis metodologías más influyentes en eficiencia y eficacia organizacional: PDCA, Lean, Six Sigma, Agile y Scrum, OKR y Business Model Canvas. Su historia, el problema que las originó, cómo se usan hoy y cómo aplicarlas.</description>
+      <enclosure url="https://cotinbenavente.github.io/podcast-cotin/podcast-metodologias-organizacionales.mp3" type="audio/mpeg" length="23618133" />
+      <guid isPermaLink="false">cotin-podcast-metodologias-organizacionales</guid>
+      <pubDate>Thu, 11 Jun 2026 20:11:31 +0000</pubDate>
+      <itunes:author>Podcast Cotin (generado con IA)</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Empresas familiares en Chile: gobernanza, sucesión y legado</title>
       <description>Qué son las empresas familiares, su peso en la economía chilena, ejemplos de todos los tamaños, los gremios AEF y FEC, el modelo de los tres círculos, protocolos familiares, sucesión, ley de herencia y mejores prácticas.</description>
       <enclosure url="https://cotinbenavente.github.io/podcast-cotin/podcast-empresas-familiares.mp3" type="audio/mpeg" length="26085325" />
