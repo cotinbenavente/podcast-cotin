@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Podcast Cotin</title>
+    <description>Podcasts de aprendizaje generados con inteligencia artificial. Cada episodio explora en profundidad un tema nuevo, en formato entrevista.</description>
+    <language>es-cl</language>
+    <link>https://cotinbenavente.github.io/podcast-cotin</link>
+    <itunes:author>Podcast Cotin (generado con IA)</itunes:author>
+    <itunes:category text="Education" />
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Empresas familiares en Chile: gobernanza, sucesión y legado</title>
+      <description>Qué son las empresas familiares, su peso en la economía chilena, ejemplos de todos los tamaños, los gremios AEF y FEC, el modelo de los tres círculos, protocolos familiares, sucesión, ley de herencia y mejores prácticas.</description>
+      <enclosure url="https://cotinbenavente.github.io/podcast-cotin/podcast-empresas-familiares.mp3" type="audio/mpeg" length="26085325" />
+      <guid isPermaLink="false">cotin-podcast-empresas-familiares</guid>
+      <pubDate>Thu, 11 Jun 2026 16:35:38 +0000</pubDate>
+      <itunes:author>Podcast Cotin (generado con IA)</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
