@@ -9,6 +9,15 @@
     <itunes:category text="Education" />
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>La ley de quiebras moderna: insolvencia y reemprendimiento en Chile (Ley 20.720)</title>
+      <description>Qué es la Ley 20.720 de Insolvencia y Reemprendimiento, su historia y objetivo, a quiénes aplica, cuándo se activa en una empresa pequeña intensiva en inventario, el procedimiento paso a paso y qué resultados esperar. Con la reforma de 2023 que creó procedimientos simplificados para micro y pequeñas empresas.</description>
+      <enclosure url="https://cotinbenavente.github.io/podcast-cotin/podcast-ley-insolvencia-reemprendimiento.mp3" type="audio/mpeg" length="33674337" />
+      <guid isPermaLink="false">cotin-podcast-ley-insolvencia-reemprendimiento</guid>
+      <pubDate>Tue, 23 Jun 2026 18:41:18 +0000</pubDate>
+      <itunes:author>Podcast Cotin (generado con IA)</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Las metodologías que mueven a las organizaciones: de PDCA a los OKR</title>
       <description>Un recorrido por las seis metodologías más influyentes en eficiencia y eficacia organizacional: PDCA, Lean, Six Sigma, Agile y Scrum, OKR y Business Model Canvas. Su historia, el problema que las originó, cómo se usan hoy y cómo aplicarlas.</description>
       <enclosure url="https://cotinbenavente.github.io/podcast-cotin/podcast-metodologias-organizacionales.mp3" type="audio/mpeg" length="23618133" />
