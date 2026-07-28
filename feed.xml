@@ -9,6 +9,15 @@
     <itunes:category text="Education" />
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>Mi secadora gira pero no calienta: guía de reparación (Bosch Serie 4)</title>
+      <description>Cómo identificar tu tipo de secadora, abrirla con seguridad, las causas más probables de que el tambor gire sin calentar (bomba de calor vs condensación) y cómo reparar cada una paso a paso, incluyendo el uso del multímetro y cuándo llamar a un técnico.</description>
+      <enclosure url="https://cotinbenavente.github.io/podcast-cotin/podcast-secadora-bosch-no-calienta.mp3" type="audio/mpeg" length="21355224" />
+      <guid isPermaLink="false">cotin-podcast-secadora-bosch-no-calienta</guid>
+      <pubDate>Tue, 28 Jul 2026 11:19:44 +0000</pubDate>
+      <itunes:author>Podcast Cotin (generado con IA)</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Claude al máximo: del asistente que ejecuta al sistema que corre solo</title>
       <description>Un mapa de ruta para un usuario avanzado que ya automatiza su contabilidad y su control de gestión con Claude: las novedades de Cowork, agentes y automatización, conectores, generación de apps internas, y las herramientas complementarias con más sinergia. El foco: pasar de operar Claude sesión a sesión a construir sistemas que corren sin ti.</description>
       <enclosure url="https://cotinbenavente.github.io/podcast-cotin/podcast-claude-maximo-potencial.mp3" type="audio/mpeg" length="32919383" />
