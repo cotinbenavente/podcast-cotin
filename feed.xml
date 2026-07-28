@@ -9,6 +9,15 @@
     <itunes:category text="Education" />
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>Claude al máximo: del asistente que ejecuta al sistema que corre solo</title>
+      <description>Un mapa de ruta para un usuario avanzado que ya automatiza su contabilidad y su control de gestión con Claude: las novedades de Cowork, agentes y automatización, conectores, generación de apps internas, y las herramientas complementarias con más sinergia. El foco: pasar de operar Claude sesión a sesión a construir sistemas que corren sin ti.</description>
+      <enclosure url="https://cotinbenavente.github.io/podcast-cotin/podcast-claude-maximo-potencial.mp3" type="audio/mpeg" length="32919383" />
+      <guid isPermaLink="false">cotin-podcast-claude-maximo-potencial</guid>
+      <pubDate>Tue, 28 Jul 2026 05:38:11 +0000</pubDate>
+      <itunes:author>Podcast Cotin (generado con IA)</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>La ley de quiebras moderna: insolvencia y reemprendimiento en Chile (Ley 20.720)</title>
       <description>Qué es la Ley 20.720 de Insolvencia y Reemprendimiento, su historia y objetivo, a quiénes aplica, cuándo se activa en una empresa pequeña intensiva en inventario, el procedimiento paso a paso y qué resultados esperar. Con la reforma de 2023 que creó procedimientos simplificados para micro y pequeñas empresas.</description>
       <enclosure url="https://cotinbenavente.github.io/podcast-cotin/podcast-ley-insolvencia-reemprendimiento.mp3" type="audio/mpeg" length="33674337" />
