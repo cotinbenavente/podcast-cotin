@@ -9,6 +9,15 @@
     <itunes:category text="Education" />
     <itunes:explicit>no</itunes:explicit>
     <item>
+      <title>La historia de una empresa de retail (Cap. 1): fundar y ordenar la empresa</title>
+      <description>Primer capítulo del recorrido por los proyectos concretos que construyeron una empresa chilena de retail de vestuario: la estructura societaria, el diseño tributario y contable, la organización y el control de gestión. Narrado como caso y como guion para contarlo en entrevistas.</description>
+      <enclosure url="https://cotinbenavente.github.io/podcast-cotin/podcast-historia-oreben-cap1.mp3" type="audio/mpeg" length="22454619" />
+      <guid isPermaLink="false">cotin-podcast-historia-oreben-cap1</guid>
+      <pubDate>Thu, 13 Aug 2026 15:34:51 +0000</pubDate>
+      <itunes:author>Podcast Cotin (generado con IA)</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Mi secadora gira pero no calienta: guía de reparación (Bosch Serie 4)</title>
       <description>Cómo identificar tu tipo de secadora, abrirla con seguridad, las causas más probables de que el tambor gire sin calentar (bomba de calor vs condensación) y cómo reparar cada una paso a paso, incluyendo el uso del multímetro y cuándo llamar a un técnico.</description>
       <enclosure url="https://cotinbenavente.github.io/podcast-cotin/podcast-secadora-bosch-no-calienta.mp3" type="audio/mpeg" length="21355224" />
